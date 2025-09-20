@@ -1,0 +1,3 @@
+﻿  prakt2_4.cpp
+C:\Users\st310-05\Desktop\prakt2_Leshukov\prakt2_4\prakt2_4.cpp(40,1): warning C4715: Date::Valid: значение возвращается не при всех путях выполнения
+  prakt2_4.vcxproj -> C:\Users\st310-05\Desktop\prakt2_Leshukov\x64\Debug\prakt2_4.exe
